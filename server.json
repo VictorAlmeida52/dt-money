@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 75,
+      "createdAt": "2022-07-30T12:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-07-30T12:36:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Consultoria de Marketing",
+      "type": "income",
+      "category": "Serviços",
+      "price": 3500,
+      "createdAt": "2023-08-10T09:15:21.123Z"
+    },
+    {
+      "id": 5,
+      "description": "Supermercado",
+      "type": "outcome",
+      "category": "Compras",
+      "price": 220,
+      "createdAt": "2023-08-12T15:40:55.789Z"
+    },
+    {
+      "id": 6,
+      "description": "Curso de Fotografia",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 450,
+      "createdAt": "2023-08-15T18:22:10.321Z"
+    },
+    {
+      "id": 7,
+      "description": "Salário",
+      "type": "income",
+      "category": "Renda",
+      "price": 5000,
+      "createdAt": "2023-08-20T10:05:15.987Z"
+    },
+    {
+      "id": 8,
+      "description": "Cinema",
+      "type": "outcome",
+      "category": "Entretenimento",
+      "price": 30,
+      "createdAt": "2023-08-22T20:30:40.222Z"
+    },
+    {
+      "id": 9,
+      "description": "Conserto do carro",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 280,
+      "createdAt": "2023-08-23T14:18:05.111Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-08-25T09:02:22.997Z",
+      "id": 12
+    },
+    {
+      "description": "Salário",
+      "category": "Renda",
+      "price": 3800,
+      "type": "income",
+      "createdAt": "2023-08-25T09:04:59.230Z",
+      "id": 13
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-08-25T09:12:42.488Z",
+      "id": 14
+    }
+  ]
+}
